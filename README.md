@@ -13,8 +13,9 @@ Ancak gün geçtikçe ün kazanan Python şirketlerce benimsendi ve Python geli�
   <div style="text-align: left;">
     <h1>Paython Nedir ?</h1>
     Python, <a href="https://github.com/TriTetra/java_ogrendiklerim/blob/main/compiler_interpreter.md">yorumlanan (interpreter)</a> bir dildir. <b>C/C++</b> gibi dillerin aksine <a href="https://github.com/TriTetra/java_ogrendiklerim/blob/main/compiler_interpreter.md">derlemeye (compiler)</a> ihtiyaç <b>duymadan</b> çalıştırılabilmektedir. Bunun gibi özellikler sayesinde Python diğer dillere göre daha hızlı yazılabilir ve çalıştırılabilir aynı zaman bir çok özelliği <b>hazır</b> olarak sizlere sunar. Bu bakımdan Python <b>Syntax (södizimi)</b> açısından da oldukça basittir. Python ile yazılan bir çok kütüphane bulunmaktadır. <em>Bu kütüphaneler ile görsel otomasyonlar yapılabilir; veri analizi, makine öğrenmesi gibi alanlarda çalışmalarda bulunabilir; matematiksel hesaplamalardan web uygulamalarına kadar çeşitli ve farklı konularda yazılım geliştirebilir.</em>
+    <br><br>
     <div align="center">
-    <img src="https://www.quytech.com/blog/wp-content/uploads/2020/06/python-web-development.jpg" title="python" height="395" width="830"/>
+    <img src="https://learn.temporal.io/assets/images/banner_python-0d345d125b6892840c54f7e1460c8a5a.png" title="python" height="254" width="902"/>
     </div>
   </div>
 </div>

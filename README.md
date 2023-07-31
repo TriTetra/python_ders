@@ -1,1 +1,2 @@
-# python_ders
+# Python Nedir ?
+- Python, 90'lı yılların başlarında <a href="https://github.com/gvanrossum">Guido Van Rossum</a> tarafından geliştirilmeye başlanmıştır. Geliştirilmeye başlandığı ilk zamanlar <b>"Programlar için tanımlayıcı"</b> olarak nitelendiriliyordu. Bununla birlikte <b>"Automate the Boring Stuff with Python"</b> adında popüler bir <a href="https://www.amazon.com.tr/Automate-Boring-Stuff-Python-Programming/dp/1593275994">kitap</a> dahi yayınlanmıştı.

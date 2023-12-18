@@ -14,5 +14,7 @@ daireCevre = 2*3.14*yariCap
 print(type(daireAlan))
 print(type(daireCevre))
 
+print("Daire Alani Türü: {}, Daire Cevresi Türü: {}".format(type(daireAlan),type(daireCevre)))
+
 print(daireAlan)
 print(daireCevre)
